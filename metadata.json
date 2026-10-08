@@ -1,0 +1,6 @@
+{
+  "name": "Sunrise Institute of Technology & Management",
+  "description": "Official portal for Sunrise Institute of Technology & Management - Explore courses, view faculty and facilities, apply for admission online, and manage applications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
